@@ -4,7 +4,7 @@ There is only a home page since its a template. This was a website i was working
 
 You can change anything you want in this code and turn it to anything you want.
 
-> [**PREVIEW**](https://raw.githack.com/alwaysluxury/basic-html-website/index.html)
+> [**PREVIEW**](https://raw.githack.com/alwaysluxury/basic-html-website/main/index.html)
 
 # Installation
 clone or download the repo and open index.html
